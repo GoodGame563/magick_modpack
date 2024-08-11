@@ -1,0 +1,27 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:wheat_seeds",
+    "item:minecraft:carrot",
+    "item:just_enough_armour:impostert_leggings{Damage:0}",
+    "item:just_enough_armour:impostert_chestplate{Damage:0}",
+    "item:just_enough_armour:impostert_helmet{Damage:0}",
+    "item:minecraft:birch_log",
+    "item:minecraft:birch_wood"
+  ],
+  "craft_history": [
+    "minecraft:torch",
+    "quark:tweaks/crafting/utility/tools/stone_pickaxe",
+    "minecraft:crafting_table",
+    "minecraft:wooden_pickaxe",
+    "minecraft:acacia_planks",
+    "quark:building/crafting/compressed/stick_block_uncompress"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
